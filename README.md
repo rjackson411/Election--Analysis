@@ -16,7 +16,7 @@ The outcome of the congressional election audit will determine the following:
 8. The county with the highest turnout
 
 ## Tools Utilized to Complete Analysis
-The [Election Results Dataset](https://github.com/cmmgw/Election_Analysis/tree/main/Resources), in a CSV file format, was analyzed by running Python scripts in Visual Studio Code.
+The [Election Results Dataset](https://github.com/cmmgw/Election_Analysis/tree/main/Resources) in a CSV file format was analyzed by running Python scripts in VS Code.
 
 ## Election Audit Results
 The results of the election audit analysis indicate the following:
